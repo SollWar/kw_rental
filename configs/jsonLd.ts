@@ -52,6 +52,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда шлема SMK/IXS (1 день)',
+                image: 'helmet.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '500',
@@ -69,6 +70,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Подшлемник (покупка обязательна)',
+                image: 'balaclava.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '600',
@@ -85,6 +87,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда мотокуртки (1 день)',
+                image: 'jacket.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '800',
@@ -102,6 +105,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда мотоперчаток (1 день)',
+                image: 'gloves.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '300',
@@ -119,6 +123,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда шлема SMK/IXS (3 дня)',
+                image: 'helmet.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '1200',
@@ -136,6 +141,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда мотокуртки (3 дня)',
+                image: 'jacket.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '2000',
@@ -153,6 +159,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда мотоперчаток (3 дня)',
+                image: 'gloves.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '700',
@@ -170,6 +177,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда шлема SMK/IXS (1 неделя)',
+                image: 'helmet.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '3000',
@@ -187,6 +195,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда мотокуртки (1 неделя)',
+                image: 'jacket.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '5100',
@@ -204,6 +213,7 @@ export const getJsonLd = (domain: string | undefined) => {
               item: {
                 '@type': 'Product',
                 name: 'Аренда мотоперчаток (1 неделя)',
+                image: 'gloves.jpg',
                 offers: {
                   '@type': 'Offer',
                   price: '1600',
